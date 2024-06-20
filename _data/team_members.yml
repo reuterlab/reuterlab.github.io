@@ -1,0 +1,38 @@
+- name: Max Reuter
+  photo: Max.jpg
+  info: Professor of Evolutionary Genetics
+  email: m.reuter@ucl.ac.uk
+  number_educ: 8
+  education1: Diploma, University of Zurich, 1997
+  education2: PhD with Laurent Keller, University of Lausanne, 2003
+  education3: Postdoc, UCL, 2004–2006
+  education4: NERC fellowship, UCL, 2006–2009
+  education5: Lecturer, UCL, 2009–2010
+  education6: Reader in Evolutionary Genetics, UCL, 2010–2020
+  education7: Professor of Evolutionary Genetics, UCL, 2020–
+  education8: Editor-in-Chief, Journal of Evolutionary Biology, 2021–
+
+- name: Débora Brandt
+  photo: Debora.jpg
+  info: Postdoc, BBSRC, started October 2022
+  email: niu@physics.leidenuniv.nl
+  number_educ: 2
+  education1: Master, University of Tokyo
+  education2: PhD with [Rasmus Nielsen](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) and [Carla Sgrò] (URL), Monash University, Melbourne, Australia
+
+- name: Avishikta Chakraborty
+  photo: Avi.jpeg
+  info: Postdoc, Leverhulme Trust, started September 2022
+  email: jwlee0421@postech.ac.kr
+  number_educ: 2
+  education1: Master, University of Tokyo
+  education2: PhD with [Christen Mirth](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) and [Carla Sgrò] (URL), Monash University, Melbourne, Australia
+
+- name: Abhilesh Dhawanjewar
+  photo: Abhilesh.jpg
+  info: Postdoc, Leverhulme Trust, started September 2022
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+  education1: Master, University of Tokyo
+  education2: PhD with [Christen Mirth](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) and [Carla Sgrò] (URL), Monash University, Melbourne, Australia
+
