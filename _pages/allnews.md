@@ -3,7 +3,7 @@ title: "Reuter Lab -- News"
 layout: textlay
 excerpt: "Reuter Lab -- News"
 sitemap: false
-permalink: /allnews/
+permalink: /allnews.html
 ---
 
 # News
