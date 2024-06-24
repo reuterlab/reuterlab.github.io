@@ -36,25 +36,13 @@ permalink: /team/
   <li> {{ member.education2 | markdownify}} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
+  {% if member.number_educ == 6 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
   {% endif %}
 
   </ul>
@@ -88,7 +76,6 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
@@ -115,7 +102,6 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
 {% for member in site.data.collaborators %}
 {{ member.name }}
 {% endfor %}
