@@ -1,113 +1,36 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+- name: Max Reuter
+  photo: Max.jpg
+  info: Professor of Evolutionary Genetics
+  email: m.reuter@ucl.ac.uk
+  number_educ: 6
+  education1: PhD with Laurent Keller, University of Lausanne, 2003
+  education2: Postdoc, UCL, 2004–2006
+  education3: NERC fellowship, UCL, 2006–2009
+  education4: Lecturer, then Reader, UCL, 2009–2020
+  education5: Professor of Evolutionary Genetics, UCL, 2020–
+  education6: Editor-in-Chief, Journal of Evolutionary Biology, 2021–
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Débora Brandt
+  photo: Debora.jpg
+  info: Postdoc, BBSRC, started October 2022
+  email: d.brandt@ucl.ac.uk
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: Undergraduate degree and Masters in Biology, University of São Paulo, Brazil
+  education2: PhD with [Rasmus Nielsen](https://nielsen-lab.github.io), University of California at Berkley, USA
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
+- name: Avishikta Chakraborty
+  photo: Avi.jpeg
+  info: Postdoc, Leverhulme Trust, started September 2022
+  email: avishikta.chakraborty@ucl.ac.uk
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: Integrated Masters in Biotechnology, St. Xavier’s College, Kolkata, India
+  education2: PhD with [Christen Mirth](https://themirthlab.org) and [Carla Sgrò](https://www.monash.edu/science/schools/biological-sciences/staff/sgro), Monash University, Melbourne, Australia
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: PhD Student, 2018-2023
-  education2: Master Leiden University with Milan Allan
-  education3: Casimir PhD fellowship
-
-- name: Meng Li
-  photo: MengLi.jpg
-  info: Postdoc, since 2023
-  email: benschop@physics.leidenuniv.nl
+- name: Abhilesh Dhawanjewar
+  photo: Abhilesh.jpg
+  info: Postdoc, Leverhulme Trust, started September 2022
+  email: a.dhawanjewar@ucl.ac.uk
   number_educ: 2
-  education1: PhD, Institute of Physics, Chinese Academy of Sciences, with [Hong-Jun Gao](http://n04.iphy.ac.cn/english/zt/hongjungao.html).
-  education2: BSc University of Chinese Academy of Sciences
+  education1: Integrated Masters, Indian Institute of Science Education and Research, Pune, India
+  education2: PhD with [Kristi Montooth](https://biosci.unl.edu/kristi-montooth) and [Colin Meiklejohn](https://biosci.unl.edu/colin-meiklejohn), Universiy of Nebraska-Lincoln, USA
 
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
-  number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
