@@ -9,7 +9,7 @@ permalink: /
 <br><br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/drosophila.jpg" width="50%" class="center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/drosophila.jpg" class="center">
 </figure>
 
 
