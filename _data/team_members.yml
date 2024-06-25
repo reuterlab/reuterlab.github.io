@@ -2,7 +2,7 @@
   photo: Max.jpg
   info: Professor of Evolutionary Genetics
   email: m.reuter@ucl.ac.uk
-  profile: UCL profile
+  profile: [UCL profile](https://profiles.ucl.ac.uk/10749-max-reuter)
   number_educ: 6
   education1: PhD with Laurent Keller, University of Lausanne, 2003
   education2: Postdoc, UCL, 2004–2006
@@ -13,27 +13,27 @@
 
 - name: Débora Brandt
   photo: Debora.jpg
-  info: Postdoc, BBSRC, started October 2022
+  info: BBSRC-funded postdoc, 2022–
   email: d.brandt@ucl.ac.uk
-  profile: UCL profile
+  profile: [UCL profile](https://profiles.ucl.ac.uk/92078-debora-yoshihara-caldeira-brandt)
   number_educ: 2
   education1: Undergraduate degree and Masters in Biology, University of São Paulo, Brazil
   education2: PhD with [Rasmus Nielsen](https://nielsen-lab.github.io), University of California at Berkley, USA
 
 - name: Avishikta Chakraborty
   photo: Avi.jpeg
-  info: Postdoc, Leverhulme Trust, started September 2022
+  info: Leverhulme-funded postdoc, 2022–
   email: avishikta.chakraborty@ucl.ac.uk
-  profile: UCL profile
+  profile: [UCL profile](https://profiles.ucl.ac.uk/91284-avishikta-chakraborty)
   number_educ: 2
   education1: Integrated Masters in Biotechnology, St. Xavier’s College, Kolkata, India
   education2: PhD with [Christen Mirth](https://themirthlab.org) and [Carla Sgrò](https://www.monash.edu/science/schools/biological-sciences/staff/sgro), Monash University, Melbourne, Australia
 
 - name: Abhilesh Dhawanjewar
   photo: Abhilesh.jpg
-  info: Postdoc, Leverhulme Trust, started September 2022
+  info: Leverhulme-funded postdoc, 2022–
   email: a.dhawanjewar@ucl.ac.uk
-  profile: UCL profile
+  profile: [UCL profile](https://profiles.ucl.ac.uk/91490-abhilesh-dhawanjewar)
   number_educ: 2
   education1: Integrated Masters, Indian Institute of Science Education and Research, Pune, India
   education2: PhD with [Kristi Montooth](https://biosci.unl.edu/kristi-montooth) and [Colin Meiklejohn](https://biosci.unl.edu/colin-meiklejohn), Universiy of Nebraska-Lincoln, USA
