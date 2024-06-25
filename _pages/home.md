@@ -9,7 +9,7 @@ permalink: /
 <br><br>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/drosophila.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/drosophila.jpg" width="50%" class="center">
 </figure>
 
 
@@ -20,6 +20,6 @@ We are interested in the forces that drive and constrain phenotypic and genomic 
 Have a look who we are [here]({{ site.url }}{{ site.baseurl }}/team) and read about our work [here]({{ site.url }}{{ site.baseurl }}/research).
 </p>
 <p>
-If you are interested in our work and could imagine joining the group as a PhD student or postdoc, have a look here.
+If you are interested in our work and could imagine joining the group as a PhD student or postdoc, have a look [here]({{ site.url }}{{ site.baseurl }}/vacancies).
 </p>
 
