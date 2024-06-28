@@ -6,6 +6,14 @@
   role: BBSRC-funded postdoc 2019–2024, co-supervised with Nick Lane
   current: Postdoc, UCL GEE
 
+- name: Carl Mackintosh
+  role: PhD student, co-supervised with Andrew Pomiankowski, 2019–2023
+  current: Postdoc with Denis Roze at the Station Biologique de Roscoff
+
+- name: Michael Jardine
+  role: PhD student, 2018–2022
+  current: Postdoc, University of Exeter
+
 - name: Pedram Samani
   role: BBSRC-funded postdoc 2018–2021
   current: Senior wet-lab manager, Broad Institute, Harvard, USA
@@ -14,17 +22,29 @@
   role: BBSRC-funded research technician, 2018–2021
   current: PhD student with Snezhana Oliferenko, King's College London
 
+- name: Benjamin Taylor
+  role: PhD student, co-supervised with Seririan Sumner, 2017–2021
+  current: Postdoc Brock Harpur at Purdue University
+
 - name: Florencia Camus
   role: Marue Curie-, BBSRC- and Leverhulme-funded postdoc 2016–2021
   current: NERC Independent Research Fellow, UCL GEE
 
-- name: Michael Jardine
-  role: PhD student, 2018–2022
-  current: Postdoc, University of Exeter
-
 - name: Filip Ruzicka
   role: PhD student, 2015–2019
   current: Postdoctoral fellow at ISTA, Vienna, Austria
+
+- name: Tom Kay
+  role: Visiting PhD student (supervisor Laurent Keller, University of Lausanne), 2019
+  curremt: Postdoc with Daniel Kronauer, Rockefeller University
+
+- name: Émeline Favreau
+  role: PhD student, co-supervised with Yannick Würm, QMUL, 2016–2019
+  current: Bioinformatician, University of Cambridge
+
+- name: Andy Higgins
+  role: MPhil student, 2011–2018
+  current: School teacher
 
 - name: Mark Hill
   role: PhD student, 2013–2017
@@ -34,17 +54,13 @@
   role: NERC-funded postdoc
   current: Postdoctoral Research Fellow, Oxford University
 
-- name: Andy Higgins
-  role: MPhil student, 2011–2018
-  current: School teacher
-
 - name: Sara Fuentes
   role: NERC-funded lab manager, then postdoc, 2009–2013
   current: Managing Editor, FEBS Open Bio
 
-- name: Julie Collet
-  role: NERC-funded postdoc, 2009–2011
-  current: Permanent researcher, INRAE, Tours, France
+- name: Benjamin Lange
+  role: Visiting PhD student (supervisor Ellen Decaestecker, Katholieke Universiteit Leuven, Belgium), 2012
+  current: Head of Platform Operations & Services, Siemens
 
 - name: Charles Mullon
   role: PhD student, 2008–2012
@@ -53,4 +69,8 @@
 - name: Jack Hesketh
   role: PhD student, 2008–2012
   current: Developer at ipushpull, London
+
+- name: Julie Collet
+  role: NERC-funded postdoc, 2009–2011
+  current: Permanent researcher, INRAE, Tours, France
 
