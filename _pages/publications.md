@@ -46,8 +46,6 @@ B. A. Taylor, M. Reuter and S. Sumner (2019). Patterns of reproductive different
 
 M. F. Camus, M. Reuter and K. Fowler (2018). Dietary choices are influenced by genotype, mating status and sex in Drosophila melanogaster. Ecology and Evolution 8:5385–5393. 
 
-P. Samani and M. Reuter (2018). Genomic health in an asexual fish [News and Views]. Nature Ecology and Evolution 2:595–596.  
-
 M. F. Camus, K. Fowler, M. W. D. Piper and M. Reuter (2017) Sex- and genotype-effects on nutrient-dependent fitness landscapes in Drosophila melanogaster. Proceedings of the Royal Society B 284:20172237. 
 
 M. Reuter, M. F. Camus, M. S. Hill, F. Ruzicka and K. Fowler (2017). Evolving plastic responses to external and genetic environments (Forum). Trends in Genetics 33:169-170. 
@@ -129,5 +127,7 @@ Veneti, Z., M. Reuter, H. Montenegro, E. A. Hornett, S. Charlat and G. D. D. Hur
 F. Ruzicka, M. Reuter (2022). Evolutionary genetics: Dissecting a sexually antagonistic polymorphism. Current Biology 32:R828-R830.
 
 M. Reuter (2022). An update on recent developments at JEB. Journal of Evolutionary Biology 35:903-904.
+
+P. Samani and M. Reuter (2018). Genomic health in an asexual fish [News and Views]. Nature Ecology and Evolution 2:595–596.  
 
 M. Reuter (2008). The answers that lie in the shape of our genes. Commissioned book review of M. Lynch, The Origins of Genome Architecture. Times Higher Education.

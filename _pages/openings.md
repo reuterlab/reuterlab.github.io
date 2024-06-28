@@ -11,7 +11,7 @@ permalink: /jobs/
 We are always looking to grow the lab and if you are interested in joining us as a PhD student or postdoc on your own funding, please get in touch!
 
 
-### Postdoc opportunities
+![]({{ site.url }}{{ site.baseurl }}/images/lab.jpg){: style="width: 300px; float: right; margin: 0px  10px"}### Postdoc opportunities
 
 If you are interested in joining the lab as a postdoc, then please [email me](mailto:m.reuter@ucl.ac.uk). A number of externally funded schemes are available for all levels of experience and I am happy to talk about possible projects that combine your and our research interests and assist you with preparing an application.
 
@@ -22,9 +22,6 @@ We are always looking for clever and motivated PhD students. At UCL, studentship
 
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Team.jpg" width="95%">
-</figure>
 
 
  
