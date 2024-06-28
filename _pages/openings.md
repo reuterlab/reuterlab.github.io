@@ -18,12 +18,9 @@ If you are interested in joining the lab as a postdoc, then please [email me](ma
 
 ### PhD studentships
 
-We are always looking for clever and motivated PhD students. At UCL, studentships are available through two doctoral training programmes, the [London NERC DTP](https://london-nerc-dtp.org) and the [BBSRC LIDo DTP](https://www.lido-dtp.ac.uk). We usually offer project through both, but it's a good idea to email me before applying. Applications for both programmes open towards the end of the year, with deadlines in December or January.
+We are always looking for clever and motivated PhD students. At UCL, studentships are available through two doctoral training programmes, the [London NERC DTP](https://london-nerc-dtp.org) and the [BBSRC LIDo DTP](https://www.lido-dtp.ac.uk). We usually offer projects through both, but it's a good idea to email me before applying. Applications for both programmes open in the autumn, with deadlines in December or January.
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
 
 
  
