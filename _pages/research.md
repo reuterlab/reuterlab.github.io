@@ -24,3 +24,7 @@ Our empirical work on sexual antagonism is complemented by evolutionary theory. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/yeast.png){: style="width: 300px; float: left; margin: 0px 10px"}A parallel strand of experimental research investigates the evolution of genetic correlations and plastic genotypes more generally. Sexual dimorphism and sexual antagonism is conceptually related to other instances where genomes do or fail to express different phenotypes in response to genetic or environmental cues. We are interested in the evolution of genetic correlations among traits and novel regulatory mechanisms that allow plasticity. In collaboration with [Jürg Bähler](https://bahlerlab.info), we study the genetic architecture of stress tolerance and how the genetic correlation among traits is shaped by the interplay between mutational input and selection.
 
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/robot.jpg" width="95%">
+</figure>
