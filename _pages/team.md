@@ -8,6 +8,10 @@ permalink: /team/
 
 # People
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Team.jpg" width="95%">
+</figure>
+
 
 ## Group members
 {% assign number_printed = 0 %}
