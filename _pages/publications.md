@@ -16,7 +16,7 @@ E. Flintham, V. Savolainen,  S. Otto, M. Reuter,  C. Mullon. The maintenance of 
 
 ### Journal articles
 
-C. Mackintosh, M. F. Scott, M. Reuter, A. Pomiankowski (in press). Locally adaptive inversions in structured populations. Genetics, iyae073.
+C. Mackintosh, M. F. Scott, M. Reuter, A. Pomiankowski (2024). Locally adaptive inversions in structured populations. Genetics 227:iyae073.
 
 B. A. Taylor, D. Taylor, A. Bodrug-Schepers, F. Câmara Ferreira, N. Stralis-Pavese, H. Himmelbauer, R. Guigó, M. Reuter, S. Sumner (2024). Molecular signatures of alternative reproductive strategies in a facultatively social hover wasp. Molecular Ecology 33:e17217.
 
