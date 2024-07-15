@@ -11,7 +11,7 @@ permalink: /jobs/
 We are always looking to grow the lab and if you are interested in joining us as a PhD student or postdoc on your own funding, please get in touch!
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab.jpg){: style="width: 300px; float: right; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab.jpg){: style="width: 200px; float: right; margin: 0px  10px"}
 
 ### Postdoc opportunities
 
